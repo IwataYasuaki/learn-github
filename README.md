@@ -1,7 +1,7 @@
 # learn-github
 
-hello 2.
+hello.
 goodbye.
 hello again.
 goodbye again.
-a
+aaa
